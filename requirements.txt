@@ -1,0 +1,7 @@
+pandas
+openpyxl
+xlrd
+requests
+beautifulsoup4
+termcolor
+pyinstaller

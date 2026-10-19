@@ -1,0 +1,27 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Datos de trabajo y resultados: pueden contener información confidencial.
+/folders/**
+!/folders/README.md
+*.xlsx
+*.xls
+*.csv
+~$*
+
+# Paquetes y artefactos de compilación
+/build/
+/dist/
+*.spec
+
+# Configuración local y sistema operativo
+.env
+.env.*
+!.env.example
+Thumbs.db
+desktop.ini
