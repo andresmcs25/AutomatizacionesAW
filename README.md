@@ -1,4 +1,6 @@
-# Proyecto de procesamiento
+# AutomatizacionesAW
+
+## Proyecto de procesamiento
 
 Aplicación local para reunir y ejecutar scripts de procesamiento de archivos. El flujo existente de depuración de cartera es el primer proceso integrado; la estructura permite añadir otros procesos sin mezclar sus reglas con el punto de entrada.
 
